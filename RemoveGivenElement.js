@@ -9,4 +9,4 @@ for(let i=0; i<arr.length; i++){
         k++;
     }
 }
-console.log(k);  //2;
+console.log(k);  //2
