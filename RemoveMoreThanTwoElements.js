@@ -13,4 +13,4 @@ for(let i=0; i<arr.length; i++){
     }
 }
 console.log(newArray);
-//time and space complexity:- O(n*2) and (n)
+//time and space complexity:- O(n*2) and (n);
