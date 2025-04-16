@@ -10,3 +10,4 @@ for(let i=0; i<arr.length; i++){
     }
 }
 console.log(k);  //2
+//Time and Space Complexity :- O(n) and O(1)
